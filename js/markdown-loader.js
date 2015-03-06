@@ -11,7 +11,7 @@
 window.addEventListener('load', function() {
 
 var http_client = new XMLHttpRequest();
-http_client.open('GET', '../page.md');
+http_client.open('GET', 'page.md');
 http_client.onreadystatechange = function() {
 	if (this.readyState == 4 && this.status == 200) {
 		document.getElementById("markdown").innerHTML = markdown.toHTML(this.response);

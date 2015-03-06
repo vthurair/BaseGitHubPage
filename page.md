@@ -10,7 +10,7 @@
 
 #### Cool picture
 
-![coolphoto](../images/hellacool.jpg)
+![coolphoto](https://raw.githubusercontent.com/b3ll/BaseGitHubPage/gh-pages/images/hellacool.jpg)
 
 * * *
 Lines are pretty Cool
